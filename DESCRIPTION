@@ -1,7 +1,7 @@
 Package: stcpR6
 Title: Sequential Test and Change-Point Detection Algorithms Based on
         E-Values / E-Detectors
-Version: 0.9.7
+Version: 0.9.8
 Authors@R: 
     person(given = "Jaehyeok",
            family = "Shin",
@@ -23,8 +23,8 @@ URL: https://github.com/shinjaehyeok/stcpR6
 BugReports: https://github.com/shinjaehyeok/stcpR6/issues
 RoxygenNote: 7.3.2
 NeedsCompilation: yes
-Packaged: 2024-09-07 23:50:41 UTC; shinj
+Packaged: 2024-10-08 07:13:25 UTC; shinj
 Author: Jaehyeok Shin [aut, cre] (<https://orcid.org/0000-0003-0464-915X>)
 Maintainer: Jaehyeok Shin <shinjaehyeok@gmail.com>
 Repository: CRAN
-Date/Publication: 2024-09-08 00:30:02 UTC
+Date/Publication: 2024-10-08 07:30:01 UTC
